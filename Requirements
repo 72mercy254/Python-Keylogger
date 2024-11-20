@@ -1,0 +1,7 @@
+pynput
+sounddevice
+pyscreenshot
+numpy
+pillow
+smtplib (comes with Python's standard library)
+wave (comes with Python's standard library)
